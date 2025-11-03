@@ -6,15 +6,15 @@ The **World Values Survey** is a global research project that explores people's 
 
 Analysis conducted by the political scientists Ronald Inglehart and Christian Welzel shows that there are two major dimensions of cross cultural variation in the world: traditional values versus secular-rational values, and survival values versus self-expression values. In this context, traditional values emphasize the importance of religion, parent-child ties, deference to authority and traditional family values, and ecular-rational values place less emphasis on religion, traditional family values and authority, instead deferring to science. Survival values emphasize mindsets around making money and having enough resources to be stable, while self-expression values emphasize autonomy and individual decision making, e.g. in areas such as environmental protection, growing tolerance of foreigners, gays and lesbians and gender equality. 
 
-![values_map_2004](/assets/Inglehart_Values_Map.svg?raw=true)
+![values_map_2004](/assets/Inglehart_Values_Map.svg)
 
 Based on these conclusions, Inglehart and Welzel found that these two axes were a good estimate of the modernity of a country--as a country moved up from the lower left to the upper right quadrant, its level of "richness" increased. For example, societies that have high scores in Traditional and Survival values included Zimbabwe, Morocco, Jordan, Bangladesh, and societies with high scores in Secular-rational and Self-expression values included Japan, Nordic countries, Benelux, Germany, Switzerland, Czechia, Slovenia, France. Due to the European origins of the survey, early runs of the survey tended to be highly Eurocentric, and later analyses conducted more detailed analyses of African and Islamic countries. 
 
-![values_map_2023](/assets/Cultural_Map_2023.png?raw=true)
+![values_map_2023](/assets/Cultural_Map_2023.png)
 
 One particular note to make is that the relative locations of countries on these two axes is relatively stable. Comparing the maps from 2004 to 2023, we see that Protestant Europe continues to mark the highest degree of secular and self-expression values, while African-Islamic countries mark the highest degree of traditional and survival values. This tends to suggest that cultural change is slow and cannot be imposed by a society, a point made by Geert Hofstede. This plays off of Stewart Brand's notion of "Pace Layers of Change"--societal changes happen fastest at the level of fashion and the slowest at the level of fundamental values and nature. 
 
-![pace_layers](/assets/sketchplanations-pace-layers.png?raw=true)
+![pace_layers](/assets/sketchplanations-pace-layers.png)
 
 # Further Notes
 
