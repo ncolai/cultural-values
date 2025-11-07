@@ -1,4 +1,4 @@
-# Values Survey
+# Values Wiki
 
 Welcome to the Values wiki for Life Itself! This is a mockup of a knowledgebase and primer around cultural evolution, particularly within the context of modernity and as relating to Life Itself's mission. 
 
