@@ -1,10 +1,10 @@
 # Values Survey
 
-Welcome to the Values wiki for Life Itself! This is a project meant to guide you through the various corners of understanding the context of cultural evolution within the paradigms of our modern society. 
+Welcome to the Values wiki for Life Itself! This is a mockup of a knowledgebase and primer around cultural evolution, particularly within the context of modernity and as relating to Life Itself's mission. 
 
 ## Getting Started
 
-You can click on Cultural Values on the left to learn more about Schwartz's Cultural Values. 
+Four example articles have been created: around cultural evolution, cultural paradigms, Schwartz's Cultural Values, and the World Values Survey. Feel free to click on each article in the left to get a better sense of the topic. 
 
 ## Learn More
 
